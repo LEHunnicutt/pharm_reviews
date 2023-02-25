@@ -27,10 +27,10 @@ During preliminary analysis and cleaning, I removed the date column and another 
 
 ### Code
 
-01_Data_Import_and_Cleaning.ipynb *Data import, preliminary analysis & cleaning.*<br>
-02a_EDA_All_Conditions.ipynb  *Statistical information and visualizations using Pandas & Seborn.*<br>
-02b_EDA_Pain.ipynb *Statistical information & visualizations using Pandas & Seaborn. NLP with Sentiment Analysis.*<br>
-03_Clustering_Evaluation_Conclusion.ipynb *Clustering of reviews in datasets based on rating, useful count, & sentiment scores.*<br>
+01_Data_Import_and_Cleaning.ipynb - *Data import, preliminary analysis & cleaning.*<br>
+02a_EDA_All_Conditions.ipynb - *Statistical information and visualizations using Pandas & Seborn.*<br>
+02b_EDA_Pain.ipynb - *Statistical information & visualizations using Pandas & Seaborn. NLP with Sentiment Analysis.*<br>
+03_Clustering_Evaluation_Conclusion.ipynb - *Clustering of reviews in datasets based on rating, useful count, & sentiment scores.*
 
 ## Conclusion, Next Steps & Recommendations
 
